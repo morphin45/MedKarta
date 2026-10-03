@@ -1,0 +1,19 @@
+{
+  "name": "Personal Health OS",
+  "short_name": "Health OS",
+  "description": "Private, organized health information and a one-tap emergency profile. All data stays encrypted on your device.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fdfcff",
+  "theme_color": "#131b2e",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
